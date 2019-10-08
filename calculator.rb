@@ -1,4 +1,4 @@
 # Add your variables here
-x = 0;
+first_number = 0;
 y = 0;
 
